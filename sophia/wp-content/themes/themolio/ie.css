@@ -1,0 +1,10 @@
+/* IE STYLE SHEET */
+
+.widget p.last, .widget div.last { margin-bottom: 0; }
+.widget ul li.last { margin-bottom: 0; }
+.entry-content .last { margin-bottom: 0; }
+.comment-content .last { margin-bottom: 0; }
+blockquote .last { margin-bottom: 0; }
+/*.grid-thumb img, .entry-thumb img { width: 100%; height: auto; }*/
+input[type="text"], input[type="password"], textarea { padding: 5px 8px; }
+input[type="submit"], input[type="reset"], input[type="button"] { padding: 5px 8px; }

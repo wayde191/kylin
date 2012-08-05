@@ -1,0 +1,5 @@
+/* MOBILE STYLESHEET */
+.commentlist li .comment-avatar { width: 9%; margin-right: 8%; }
+.commentlist li .comment-meta { width: 83%; }
+.commentlist li li li .comment-avatar { margin-right: 10%; }
+.commentlist li li li .comment-meta { width: 81%; }

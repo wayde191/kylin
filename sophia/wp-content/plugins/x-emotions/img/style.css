@@ -1,0 +1,67 @@
+.panel_wrapper div.current{height:auto;}
+#emotions ul{margin:0;padding:0;}
+#emotions li {display:-moz-inline-box;display:inline-block;*zoom:1;*display:inline;vertical-align:top;}
+#emotions a {display:block;margin:10px 10px;border:1px #fff solid;}
+#emotions a:hover {border:1px #2683AE solid;}
+#emotions a img {border:none;}
+
+#xemotion a:active {
+	cursor:default;
+	font-weight:normal;
+	text-decoration:none;
+	color:#000000;
+}
+
+#xemotion_dialog_wraper{
+	width:100%;
+    height:400px;
+	position:absolute;
+	text-align:left;
+}
+
+#xemotion_dialog {
+	width:100%;
+    height:100%;
+	position:absolute;
+}
+
+#xemotion a:hover {
+	background-color:#C8C8C8;
+}
+
+#xemotion a{
+	border-style:solid;
+	border-width:1px;
+	-moz-border-radius-bottomleft:3px;
+	-moz-border-radius-bottomright:3px;
+	-moz-border-radius-topleft:3px;
+	-moz-border-radius-topright:3px;
+	background:#E9E8E8 url(img/butt2.png) no-repeat 2px 1px ;
+	cursor:default;
+	display:block;
+	height:20px;
+	margin:1px;
+	padding:1px 2px;
+	width:20px;
+	border-color:#ABC0FB;
+}
+
+#xemotion a img{
+	display:block;
+	height:20px;
+	width:20px;
+	background:transparent url(../../img/icons.gif) no-repeat scroll 20px 20px;
+	border:0 none;
+	border-collapse:separate;
+	cursor:default;
+	font-weight:normal;
+	margin:0;
+	padding:0;
+	text-decoration:none;
+	vertical-align:baseline;
+	white-space:nowrap;
+}
+
+.tabs a {
+	font-size:12px;
+}
