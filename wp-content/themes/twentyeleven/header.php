@@ -102,7 +102,7 @@
 <div id="page" class="hfeed">
 	<header id="branding" role="banner">
 			<hgroup>
-                <div style="float:left;width:128px;height:128px"><img src="<?php echo get_template_directory_uri(); ?>/ico/logo.png" alt="ihakula"/></div>
+                <div style="float:left;width:64px;height:64px;padding-top:45px;padding-right:8px;"><img src="<?php echo get_template_directory_uri(); ?>/ico/logo.png" alt="ihakula"/></div>
                 <div style="float:left;">
 				<h1 id="site-title">
                     <span><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></span>
